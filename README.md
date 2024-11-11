@@ -1,40 +1,10 @@
-# Simple Keyboard
+Finglish-to-Farsi Keyboard (Based on Simple Keyboard)
+A customized keyboard app based on Simple Keyboard that brings Finglish-to-Farsi translation right to your fingertips! This enhanced version keeps the simplicity of Simple Keyboard while adding powerful language features for Persian speakers.
 
-[![Crowdin](https://d322cqt584bo4o.cloudfront.net/simple-keyboard/localized.svg)](https://crowdin.com/project/simple-keyboard)
-
-<img src="images/screenshot-0.png"
-      alt="closeup"
-      width="500"/>
-      
-## About
-
-Features:
-- Small size (<1MB)
-- Adjustable keyboard height for more screen space
-- Number row
-- Swipe space to move pointer
-- Delete swipe
-- Custom theme colors
-- Minimal permissions (only Vibrate)
-- Ads-free
-
-Feature it doesn't have and probably will never have:
-- Emojis
-- GIFs
-- Spell checker
-- Swipe typing
-
-## Downloads
-
-[<img src="https://f-droid.org/badge/get-it-on.png"
-      alt="Get it on F-Droid"
-      height="80">](https://f-droid.org/packages/rkr.simplekeyboard.inputmethod/)
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
-      alt="Get it on Google Play"
-      height="80">](https://play.google.com/store/apps/details?id=rkr.simplekeyboard.inputmethod)
-
-## Credits
-
-Licensed under Apache License Version 2
-
-This keyboard is based on AOSP LatinIME keyboard. You can get the original source code in https://android.googlesource.com/platform/packages/inputmethods/LatinIME/
+Features
+Simple Keyboard Layout: A lightweight, easy-to-use keyboard that maintains the core simplicity of Simple Keyboard.
+Language Toggle: Quickly switch between languages to type seamlessly in different scripts.
+Finglish-to-Farsi Translator: Enable the built-in translator to automatically convert Finglish (Persian in Latin script) to Farsi (Persian script) as you type.
+Optional Persian to English Translation: Translate Persian text to English using an integrated translation API (API setup required).
+Why This Project?
+This project provides a seamless typing experience for Persian speakers who prefer typing in Latin characters, making it easy to communicate in Farsi without switching between apps or keyboards.
